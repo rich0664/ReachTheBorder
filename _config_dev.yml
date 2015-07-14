@@ -3,6 +3,7 @@ brand : Reach The Border
 description : Something Something about latvian youth exchange
 keyword : 
 url : http://127.0.0.1:4000/
+permalink: /blog/:title
 email : 
 twitter : 
 github : 
