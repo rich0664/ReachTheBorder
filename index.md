@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Welcome!
 description: This is my site. Welcome.
 keywords: github pages, Jekyll, foundation 5
