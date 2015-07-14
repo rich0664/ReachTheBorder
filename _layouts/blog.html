@@ -92,9 +92,9 @@
             <div class="small-12 columns medium-2 columns">
 
               <ul class="side-nav">
-              {% for post in site.posts %}
+              {% for post in site.posts limit:10 %}
                 <li>
-                  <a href="/ReachTheBorder/{{ post.url }}">{{ post.title }}</a>
+                  <a href="{{BASE_PATH}}{{ post.url }}">{{ post.title }}</a>
                 </li>
               {% endfor %}
               </ul>
