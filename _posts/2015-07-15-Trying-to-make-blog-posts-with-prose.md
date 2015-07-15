@@ -1,6 +1,9 @@
 ---
+"0": "[object Object]"
 published: true
+title: "Is this the title?"
 ---
+
 
 So, what's going on.
 I've been working on this stuff for a bit now and i'm almost done :)
