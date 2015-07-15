@@ -1,5 +1,4 @@
 ---
-"0": "[object Object]"
 layout: blog
 published: true
 title: "Is this the title?"
