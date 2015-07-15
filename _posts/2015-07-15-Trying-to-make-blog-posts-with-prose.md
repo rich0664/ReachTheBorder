@@ -1,8 +1,10 @@
 ---
 "0": "[object Object]"
+layout: blog
 published: true
 title: "Is this the title?"
 ---
+
 
 
 So, what's going on.
