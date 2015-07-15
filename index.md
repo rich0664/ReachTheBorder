@@ -7,7 +7,7 @@ keywords:
 <h1 class="mvl">Follow the adventures of these buggers</h1>
 
 <div class="slicky">
-  <div><<img src="http://placehold.it/600x400?text=1" alt="placeholder"></div>
+  <div><img src="http://placehold.it/600x400?text=1" alt="placeholder"></div>
   <div><img src="http://placehold.it/600x400?text=2" alt="placeholder"></div>
   <div><img src="http://placehold.it/600x400?text=3" alt="placeholder"></div>
   <div><img src="http://placehold.it/600x400?text=4" alt="placeholder"></div>
@@ -25,17 +25,22 @@ keywords:
 
 <div class="row"> 
 
-	<div class="large-4 columns">
-		<p><a href="page-html-unit-test.html">foundation-example.html</a> shows how all the html tags are rendered. Foundation takes care of those out of the box.</p>
+	<div class="large-8 columns">
+		<p>Basically, you should have a short description of what this is all about here! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat.</p>
 	</div>
 
 	<div class="large-4 columns">
-		<p>Another example are shown in <a href="page-foundation-example.html">foundation-example.html</a>. </p>
+		<p>maybe put some boring important links here</p>
+		<<ul class="no-list">
+		    <li><a href="#"><i class="fa fa-cubes"></i>boring nr.1</a></li>
+		    <li><a href="#"><i class="fa fa-bed"></i>Yawn</a></li>
+		    <li><a href="#"><i class="fa fa-user"></i>you get the idea</a></li>
+		</ul>
 	</div>
 
-	<div class="large-4 columns">
-		<p>And finally, foundation's grid system, <a href="page-template-example.html">page-template-example</a> You can also <a href="http://foundation.zurb.com/templates.html">get more templates</a> from foundations home.</p>
-	</div>
 
 </div>
 
