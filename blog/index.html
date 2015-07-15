@@ -1,20 +1,20 @@
 ---
-layout: blog
+layout: blogside
 title: Blog
 
 ---
 
 <!-- This loops through the paginated posts -->
 
-<ul>
+<ul class="no-list">
   {% for post in paginator.posts %}
-<li>
-    <h2>{{ post.title }}</h2>
+<li >
+    <a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
     <p class="meta">{{ post.date | date_to_string }}</p>
 
     <div class="post">
     {{ post.excerpt }}
-    <span>...<span>
+     <a href="{{ site.baseurl }}{{ post.url }}" class="button tiny round">read more...</a>
     </div>
     <hr>
 </li>

@@ -38,7 +38,6 @@
     <!-- modernizr
     ================================================== -->
     <script src="{{ site.url }}/bower_components/modernizr/modernizr.js"></script>
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.6/slick.css"/>
   </head>
   <body>
 
@@ -84,10 +83,22 @@
 
         <div class="row">
           <section role="main">
-            <div class="small-12 columns">
-        
+            <div class="small-12 columns medium-9 columns">   
               {{ content }} 
            
+            </div>
+            <div class="row">
+            <div class="small-12 columns medium-3 columns">
+
+              <ul class="side-nav">
+              {% for post in site.posts limit:10 %}
+                <li>
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+              </ul>
+
+            </div>
             </div>
           </section>
         </div>
@@ -99,10 +110,8 @@
             <ul class="inline-list">
                 {% include nav.html %}
             </ul>
-            <p class="quiet copyright right"> <a href="https://twitter.com/{{ site.twitter }}">
-                <i class="fa fa-twitter">
-                </i>
-             @{{ site.twitter }}</a>, <a href="https://github.com/{{ site.github }}/">
+            <p class="quiet copyright right">
+                <a href="https://github.com/{{ site.github }}/">
                 <i class="fa fa-github">
                 </i>
              @{{ site.github }}</a> {{ site.year }}.</p>
@@ -126,7 +135,7 @@
     <script src="{{ site.url }}/js/plugins.js"></script>
     <script src="{{ site.url }}/bower_components/foundation/js/foundation.min.js"></script>
     <script src="{{ site.url }}/js/script.js"></script>
-    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.6/slick.min.js"></script>
+
 
     <!-- Google Analytics -->
     <script>
