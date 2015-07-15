@@ -31,10 +31,10 @@ prose:
     _posts:
       - name: "layout"
         field:
-        element: "hidden"
-        value: "blog"
+          element: "hidden"
+          value: "blog"
       - name: "title"
         field:
-        element: "text"
-        label: "title"
+          element: "text"
+          label: "title"
 
