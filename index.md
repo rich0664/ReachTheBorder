@@ -4,19 +4,20 @@ title: Welcome!
 keywords:
 ---
 
+
+
+<div class="row">
+	<div class="small-centered column">
+
+
 <h1 class="mvl">Follow the adventures of these buggers</h1>
 
 <div class="slicky">
-  <div><img src="http://placehold.it/600x400?text=1" alt="placeholder"></div>
-  <div><img src="http://placehold.it/600x400?text=2" alt="placeholder"></div>
-  <div><img src="http://placehold.it/600x400?text=3" alt="placeholder"></div>
-  <div><img src="http://placehold.it/600x400?text=4" alt="placeholder"></div>
-</div>
-
-<div class="row">
-	<div class="medium-9 large-7 small-centered column">
-		
-
+  <div><img src="http://placehold.it/900x400?text=We'll+put+some+cool+images+here" alt="placeholder"></div>
+  <div><img src="http://placehold.it/900x400?text=and+one+here" alt="placeholder"></div>
+  <div><img src="http://placehold.it/900x400?text=i+bet+this+will+be+best+image" alt="placeholder"></div>
+  <div><img src="http://i.imgur.com/brJ6etC.png" alt="placeholder"></div>
+</div>		
 
 
 	</div>
