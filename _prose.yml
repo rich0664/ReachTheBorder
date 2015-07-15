@@ -1,13 +1,12 @@
 
 prose:
 	metadata:
-		rooturl: "_posts"
 		_posts:
 			-name: "layout"
 			field:
 				element: "hidden"
 				value: "blog"
-			-name: "title"
-			field:
-				element: "textarea"
-				label: "Type Title Here!"
+			- name: "title"
+    		  	field:
+        		element: "text"
+        		label: "title"
