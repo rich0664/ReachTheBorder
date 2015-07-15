@@ -28,8 +28,8 @@ prose:
  rooturl: '_posts'
  siteurl: 'http://rich0664.github.io/ReachTheBorder/'
  metadata:
-  _posts:
-   -name: "layout"
+_posts:
+  - name: "layout"
     field:
     element: "hidden"
     value: "blog"
