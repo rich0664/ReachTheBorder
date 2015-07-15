@@ -7,12 +7,10 @@ keywords:
 <h1 class="mvl">Follow the adventures of these buggers</h1>
 
 <div class="slicky">
-  <div><h3>1</h3></div>
-  <div><h3>2</h3></div>
-  <div><h3>3</h3></div>
-  <div><h3>4</h3></div>
-  <div><h3>5</h3></div>
-  <div><h3>6</h3></div>
+  <div><<img src="http://placehold.it/600x400?text=1" alt="placeholder"></div>
+  <div><img src="http://placehold.it/600x400?text=2" alt="placeholder"></div>
+  <div><img src="http://placehold.it/600x400?text=3" alt="placeholder"></div>
+  <div><img src="http://placehold.it/600x400?text=4" alt="placeholder"></div>
 </div>
 
 <div class="row">
