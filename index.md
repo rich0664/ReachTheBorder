@@ -6,7 +6,7 @@ keywords:
 
 <h1 class="mvl">Follow the adventures of these buggers</h1>
 
-<div data-slick='{"slidesToShow": 4, "slidesToScroll": 4}'>
+<div class="slicky" data-slick='{"slidesToShow": 4, "slidesToScroll": 4}'>
   <div><h3>1</h3></div>
   <div><h3>2</h3></div>
   <div><h3>3</h3></div>
@@ -53,3 +53,10 @@ keywords:
 
 	</div>
 </div>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.slicky').slick({
+      });
+    });
+  </script>
