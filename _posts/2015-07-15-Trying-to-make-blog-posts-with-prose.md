@@ -1,8 +1,9 @@
 ---
 layout: blog
 published: true
-title: "Is this the title?"
+title: Making Blog posts with Prose.io
 ---
+
 
 
 
@@ -16,4 +17,4 @@ At the moment i'm trying to figure out a good way to give others access to the b
 in order to stop the post teasers in the right spot.
 Hopefully that won't be too difficult.
 adding images should be self-explanatory
-![yet another cactus]({{site.baseurl}}/http://globe-views.com/dcim/dreams/cactus/cactus-02.jpg)
+![yet another cactus]({{site.baseurl}}/http://i.imgur.com/a6AVWLN.png)
