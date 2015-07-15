@@ -35,7 +35,7 @@ keywords:
 
 	<div class="large-4 columns">
 		<p>maybe put some boring important links here</p>
-		<<ul class="no-list">
+		<ul class="no-list">
 		    <li><a href="#"><i class="fa fa-cubes"></i>boring nr.1</a></li>
 		    <li><a href="#"><i class="fa fa-bed"></i>Yawn</a></li>
 		    <li><a href="#"><i class="fa fa-user"></i>you get the idea</a></li>
@@ -47,14 +47,19 @@ keywords:
 
 <div class="row">
 	<div class="medium-9 large-7 small-centered column">
+
+
+
+
+	<p class="mvl">Here we can put some legal crap or some kind of footnote, i don't even know. we don't have to put anything here. up to you</p>
 	
-		<p class="mvl">And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
+<!--		<p class="mvl">And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
 		<i class="fa fa-flag fa-lg">	
 		</i>
 		font awesome</a>, so you can go crazy with <a href="http://fortawesome.github.io/Font-Awesome/icons/">the icons</a>: <i class="fa fa-bitcoin fa-lg">	
 		</i> <i class="fa fa-cog fa-spin fa-lg">
 		</i>. </p> 
-
+-->
 	</div>
 </div>
 
