@@ -32,7 +32,9 @@ horizontal rules
 you probably won't need this, but you can quote code with `backticks`
 
 and ofcourse you can add images 
+
 ![it's a cactus](http://png-4.findicons.com/files/icons/1337/wild_west_vol_2/128/cactus_saguaro.png)
+
 make sure you don't get `{{site.baseurl}}/` in front of the link
 
 That's pretty much it. Don't forget to publish and save the blogpost again after saving it.
