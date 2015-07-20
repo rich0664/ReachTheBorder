@@ -6,7 +6,7 @@ title: "How to blog!"
 
 
 ### All the things you can do with blog posts!
-Ruta, you should check this post out in prose.io Then you can see how to do all kinds of text stuff
+Ruta, you should check this post out in <prose.io> Then you can see how to do all kinds of text stuff
 
 [You can make hyperlinks](http://www.danbarham.com/dinklage/)
 if you just use regular links write it in < and > like this <http://i.imgur.com/K7AUWUh.jpg>
