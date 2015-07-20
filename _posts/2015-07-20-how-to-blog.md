@@ -1,8 +1,9 @@
 ---
 layout: blog
-published: false
+published: true
 title: "How to blog!"
 ---
+
 
 ### All the things you can do with blog posts!
 Ruta, you should check this post out in prose.io Then you can see how to do all kinds of text stuff
