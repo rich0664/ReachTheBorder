@@ -6,7 +6,7 @@ title: "How to blog!"
 
 
 #### All the things you can do with blog posts!
-Ruta, you should check this post out in <prose.io> Then you can see how to do all kinds of text stuff. Again, to actually make a post appear you have to save it, then open it again, publish it and save it again. The first time you save it it saves it into drafts.
+Ruta, you should check this post out in <http://prose.io> Then you can see how to do all kinds of text stuff. Again, to actually make a post appear you have to save it, then open it again, publish it and save it again. The first time you save it it saves it into drafts.
 
 You use double enter to make a new paragraph, also to set the "read more..." spot
 
@@ -37,6 +37,6 @@ and ofcourse you can add images
 
 ![it's a cactus](http://png-4.findicons.com/files/icons/1337/wild_west_vol_2/128/cactus_saguaro.png)
 
-make sure you don't get `{{site.baseurl}}/` in front of the link
+make sure you don't get `"{{site.baseurl}}/"` in front of the link
 
 That's pretty much it. Don't forget to publish and save the blogpost again after saving it.
