@@ -11,6 +11,7 @@ Ruta, you should check this post out in <http://prose.io> Then you can see how t
 You use double enter to make a new paragraph, also to set the "read more..." spot
 
 [You can make hyperlinks](http://www.danbarham.com/dinklage/)
+
 if you just use regular links write it in < and > like this <http://i.imgur.com/K7AUWUh.jpg>
 
 **You can make things bold**
@@ -30,7 +31,9 @@ headers
 ####4
 
 horizontal rules
+
 ***
+
 you probably won't need this, but you can quote code with `backticks`
 
 and ofcourse you can add images 
