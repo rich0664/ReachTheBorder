@@ -6,7 +6,7 @@ title: "How to blog!"
 
 
 #### All the things you can do with blog posts!
-Ruta, you should check this post out in <prose.io> Then you can see how to do all kinds of text stuff
+Ruta, you should check this post out in <prose.io> Then you can see how to do all kinds of text stuff. Again, to actually make a post appear you have to save it, then open it again, publish it and save it again. The first time you save it it saves it into drafts.
 
 [You can make hyperlinks](http://www.danbarham.com/dinklage/)
 if you just use regular links write it in < and > like this <http://i.imgur.com/K7AUWUh.jpg>
