@@ -3,6 +3,7 @@ brand : Reach The Border
 description : Something Something about latvian youth exchange
 keyword : 
 url : http://reachtheborder.eu
+baseurl:
 permalink: /blog/:title
 
 
