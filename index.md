@@ -10,13 +10,12 @@ keywords:
 	<div class="small-centered column">
 
 
-<h1 class="mvl">Follow the adventures of these buggers</h1>
+<h1 class="mvl">Wololooo!</h1>
 
 <div class="slicky">
-  <div><img src="http://placehold.it/900x400?text=We'll+put+some+cool+images+here" alt="placeholder"></div>
-  <div><img src="http://placehold.it/900x400?text=and+one+here" alt="placeholder"></div>
-  <div><img src="http://placehold.it/900x400?text=i+bet+this+will+be+best+image" alt="placeholder"></div>
-  <div><img src="http://i.imgur.com/brJ6etC.png" alt="placeholder"></div>
+  <div><img src="http://i.imgur.com/qa0DMla.jpg" alt=""></div>
+  <div><img src="http://i.imgur.com/wPqnwOh.jpg" alt=""></div>
+  <div><img src="http://i.imgur.com/qFmmKPz.jpg" alt=""></div>
 </div>		
 
 
@@ -27,10 +26,9 @@ keywords:
 <div class="row"> 
 
 	<div class="large-8 columns">
-		<p>Basically, you should have a short description of what this is all about here! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat.</p>
+		<p>We are group of young people from Latvia, Lithuania, Estonia and Belarus, who traveled to Latvian borderline to discover its hiddren treasures and secrets and understand what stand behind idea of a border - how it affects people who live at the border? How the borderline with sea is different from the borderline with other countries? How cities and people differ from big cities and their citizens? This webpage is dedication for our travels.
+
+</p>
 	</div>
 
 	<div class="large-4 columns">
