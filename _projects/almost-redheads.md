@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Blog
+title: Almost-Redheads
 
 ---
 
