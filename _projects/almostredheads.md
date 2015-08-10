@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Almost-Redheads
+title: almostredheads
 
 ---
 
