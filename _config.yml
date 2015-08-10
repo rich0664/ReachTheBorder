@@ -3,7 +3,6 @@ brand : Reach The Border
 description : Something Something about latvian youth exchange
 keyword : 
 url : http://rich0664.github.io/ReachTheBorder/
-baseurl : /ReachTheBorder
 permalink: /blog/:title
 
 
