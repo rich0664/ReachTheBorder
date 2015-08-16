@@ -18,7 +18,7 @@ What is the border for people who live there? Do they feel that there is somethi
 
 <br>
 <br>
-##Lady from Lietuvas iela
+<h2>Lady from Lietuvas iela</h2>
 
 <br>
 
@@ -38,7 +38,7 @@ She only finished four grades. Then she came back to Latvia. She was working as 
 
 <br>
 <br>
-##Lady going to visit her friends
+<h2>Lady going to visit her friends</h2>
 
 <br>
 
@@ -48,7 +48,7 @@ We kept on going further on Lietuvas iela when we saw a lady near the entrance t
 
 <br>
 <br>
-##Children in Eleja tree house
+<h2>Children in Eleja tree house</h2>
 
 <br>
 
@@ -68,8 +68,6 @@ They were smiling and we just gave candies to everyone. Then the funny part star
 We’re walking down the Lietuvas iela for a while... 
 <img src="road.JPG" alt=""> 
 
-<br>
-<br>
 And we **reached the border!**
 <br>
 
@@ -78,7 +76,7 @@ And we **reached the border!**
 
 <br>
 <br>
-##Family on the border
+<h2>Family on the border</h2>
 <br>
 
 Next we encountered a nice family who were visiting their relatives who live right on the border! They were about to celebrate a birthday of one member of the family. We talked a lot about what does it mean to live on the border with the other country. They explained that it means to have better possibilities to travel and meeting new people it is also an obligation, you can not be ignorant you have to know some words in other language. For them the border is just a part of their road, it is more real then for us who do not live next to the other country. 
@@ -92,7 +90,7 @@ While Viktors had a nice conversation with this man I was talking with a young g
 Before we said goodbye we asked what chocolate do they prefer: Laima, Karūna or Kalev. They’ve chosen Laima  So that was the last nice moment with people who lives on the border from Latvias’ side.
 <br>
 <br>
-##Nice lady in Žagarė
+<h2>Nice lady in Žagarė</h2>
 
 <br>
 When we came to Lithuania we hitchhiked to Žagarė. We asked one lady in Žagarė for directions to the border. She was very sweet and not only showed us a way to the border but also told us about her life – surprisingly her husband was Latvian, she could speak a bit Latvian and she have kids who live in Latvia. Her cousin lives in Latvia as well. Kids visit her and go to Lithuania for shopping. She rewarded us with an unforgetable smile and we continuoed our journey.
@@ -102,14 +100,14 @@ When we came to Lithuania we hitchhiked to Žagarė. We asked one lady in Žagar
 
 <br>
 <br>
-##Couple on their bikes
+<h2>Couple on their bikes</h2>
 <br>
 
 We went to the border and we met two persons riding bikes. They we’re coming back from the forest where they were collecting berries. They live together in Žagarė. They go to Latvia only to the forest. They were living in Latvia for 1,5 years but they don’t speak latvian. While we were talking I found out that they know my grandparents! What a small world! That was a really nice coincidence. We wished each other good luck and exchanged with chocolate and berries 
 bikes.jpg
 <br>
 <br>
-##Our host Viga and her mother
+<h2>Our host Viga and her mother</h2>
 <br>
 
 Viga was our host for the night that we spent in Lithuania. She lives in Stungiai, it’s three kilometers from Žagarė. We spend a great evening together, she was very hospitable, she made us dinner and gave a good accomodation. Moreover she entertained us with her stories and we we’re amazed by her vitality, energy and openness. 
