@@ -35,7 +35,7 @@ We kept on going further on Lietuvas iela when we saw a lady near the entrance t
 
 ##Children in Eleja tree house
 
-<img src="treehouse.JPG" alt=""> 
+<img src="treehouse.jpg" alt=""> 
 
 At the very end of Eleja village we saw some children playing near the big three. When we get closer we saw a tree house.
 -	Sveiki!
@@ -81,7 +81,7 @@ bikes.jpg
 ##Our host Viga and her mother
 Viga was our host for the night that we spent in Lithuania. She lives in Stungiai, it’s three kilometers from Žagarė. We spend a great evening together, she was very hospitable, she made us dinner and gave a good accomodation. Moreover she entertained us with her stories and we we’re amazed by her vitality, energy and openness. 
 
-<img src="vigaandilona.JPG" alt=""> 
+<img src="vigaandilona.jpg" alt=""> 
 
 <img src="stungiai.JPG" alt=""> 
 
