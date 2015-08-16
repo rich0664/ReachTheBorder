@@ -4,7 +4,7 @@ title: almostredheads
 
 ---
 
-<img src="{{ site.url }}/Projects/almostredheads/Intro.jpg" alt=""> 
+<img src="{{ site.baseurl }}/Projects/almostredheads/Intro.jpg" alt=""> 
 
 
 What is the border for people who live there? Do they feel that there is something that separates us? Why do we have borders and what does it mean to cross them? We invite you to join us on our way to the place were our countries meet and to listen to the stories of people from both sides of the border between Latvia and Lithuania.
