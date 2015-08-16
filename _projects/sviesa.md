@@ -11,7 +11,7 @@ Everywhere in the world we encounter the limits. Walls - the boundaries of our h
 When our team finally chose the direction of Liepaja, we have been discussing the phenomenon of the sea as a border. But when we came to the city, spent a few hours there, we realized that we have chosen a wrong direction. People were living near the sea for centuries, and for them it is only a part of their lives. What is more important - every time enyone comes to a new place, he or she has to violate their internal borders. So we decided to explore the city individually and write down your thoughts about our internal borders, and what happens to them during the change of locations.
 
 
-<div class="row">
+<div class="row" style="text-align: center;">
 	<div class="small-12 columns medium-3 columns">
 		<img src="nastja.JPG">
         <br>
