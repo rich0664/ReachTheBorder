@@ -33,7 +33,6 @@ collections:
 
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://rich0664.github.io/ReachTheBorder/'
   metadata:
     _posts:
@@ -45,4 +44,13 @@ prose:
         field:
           element: "text"
           label: "title"
+    _projects:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "project"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"          
 
