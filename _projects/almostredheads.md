@@ -17,7 +17,7 @@ What is the border for people who live there? Do they feel that there is somethi
 
 Through the window of the house 33 in Lietuvas iela we saw a nice lady with her black dog. They were looking at us passing by. We said hello and started to talk with her. She could speak both latvian and lithuanian! She was very nice and invited us to come over. She has been living in this house for 59 years. She was born in Latvia, her mother is lithuanian and her father – latvian. She also had a latvian husband who she met in Tervete.
 
-<img src="Throughtthewindow.JPG" alt=""> 
+<img src="throughtthewindow.JPG" alt=""> 
 
 She finished three grades in Jelgava. During war she went to live in Joniškis (Lithuania) with her family. She started to attend lithuanian school without knowing lithuanian language. She only could write in lithuanian, because letters were similar, but when somebody was talking she couldn’t understand. She shared one funny story with us: once her teacher asked her to bring notebooks to school and she understood that she has to bring her sisters. Her sisters were two and three years old back then and mother couldn’t believe that teacher asked for that so she went to school to clear things out. There were more misunderstandings, but, finally, she learned to speak lithuanian as well as she spoke latvian.
 
@@ -25,7 +25,7 @@ She finished three grades in Jelgava. During war she went to live in Joniškis (
 
 She only finished four grades. Then she came back to Latvia. She was working as a chef. After she worked in a hospital for 27 years. She met her husband and she moved to the border were she spent all her life up till now. In the same house also lives her granddaughter with her husband. She also has some relatives in Lithuania (in Šiauliai and in Joniškis) who visit her often. We really enjoyed our time with this woman, we gave her some chocolate, and she offered us cherries. She was very happy that we stopped by. Our first experience with border people was very satisfying and we were encouraged to move forward.
 
-<img src="ievawithladyfromlietuvasiela.JPG" alt=""> 
+<img src="ievawithladyfromlietuvosiela.JPG" alt=""> 
 
 ##Lady going to visit her friends
 
@@ -35,7 +35,7 @@ We kept on going further on Lietuvas iela when we saw a lady near the entrance t
 
 ##Children in Eleja tree house
 
-<img src="Treehouse.JPG" alt=""> 
+<img src="treehouse.JPG" alt=""> 
 
 At the very end of Eleja village we saw some children playing near the big three. When we get closer we saw a tree house.
 -	Sveiki!
@@ -49,7 +49,7 @@ They were a bit shy to say yes, but when we took a big bag of candies from our b
 They were smiling and we just gave candies to everyone. Then the funny part started – I asked if I could climb that tree and they let me do that. Actually they even held leathers for me. That was very sweet. I think I was the first Lithuanian to visit their tree house. Maybe now they will invite Lithuanian children to play as well. We’re braliūkai after all 
 
 We’re walking down the Lietuvas iela for a while... 
-<img src="Road.JPG" alt=""> 
+<img src="road.JPG" alt=""> 
 
 And we **reached the border!**
 <img src="ltlvborders.jpg" alt=""> 
@@ -71,7 +71,7 @@ Before we said goodbye we asked what chocolate do they prefer: Laima, Karūna or
 When we came to Lithuania we hitchhiked to Žagarė. We asked one lady in Žagarė for directions to the border. She was very sweet and not only showed us a way to the border but also told us about her life – surprisingly her husband was Latvian, she could speak a bit Latvian and she have kids who live in Latvia. Her cousin lives in Latvia as well. Kids visit her and go to Lithuania for shopping. She rewarded us with an unforgetable smile and we continuoed our journey.
 
 <img src="ViktorsandladyfromZagare.JPG" alt=""> 
-<img src="ievaandladyfromZagare.JPG" alt=""> 
+<img src="ievaandladyfromzagare.JPG" alt=""> 
 
 
 ##Couple on their bikes
