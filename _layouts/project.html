@@ -83,8 +83,7 @@
 
         <div class="row">
           <section role="main">
-            <div class="small-12 columns medium-9 columns">
-          <h2>{{ page.title }}</h2>        
+            <div class="small-12 columns medium-9 columns">        
               {{ content }} 
            
             </div>
@@ -92,7 +91,7 @@
             <div class="small-12 columns medium-3 columns">
 
               <ul class="side-nav">
-              {% for post in site.posts limit:10 %}
+              {% for post in site.projects limit:10 %}
                 <li>
                   <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </li>
