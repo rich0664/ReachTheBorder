@@ -16,7 +16,8 @@ published: true
 What is the border for people who live there? Do they feel that there is something that separates us? Why do we have borders and what does it mean to cross them? We invite you to join us on our way to the place were our countries meet and to listen to the stories of people from both sides of the border between Latvia and Lithuania.
 
 
-
+<br>
+<br>
 ##Lady from Lietuvas iela
 
 <br>
@@ -35,6 +36,8 @@ She only finished four grades. Then she came back to Latvia. She was working as 
 
 <img src="ievawithladyfromlietuvosiela.JPG" alt=""> 
 
+<br>
+<br>
 ##Lady going to visit her friends
 
 <br>
@@ -43,6 +46,8 @@ She only finished four grades. Then she came back to Latvia. She was working as 
 
 We kept on going further on Lietuvas iela when we saw a lady near the entrance to one of the houses. We greeted her in latvian and asked if she have some minutes. She agreed to talk with us. She was about to visit her friends. We’re talking about what does it mean to live on the border, and she said that it means that you have to respect other nation and you have to learn a couple of words in lithuanian. She doesn’t have lithuanian friends, but she knows that there are a lot of lithuanians who live in Latvia territory. She mentioned the fact that in a past people had a possibility to choose their citizenship if they have parents with different citizenships and live on the border. She also noted that she crosses the border to do some shopping, usually in summertime. She goes to the shops in Joniškis because it’s cheaper and it’s more interesting for her to buy something from the other country. It started to rain while we’re talking so we decided to move on. We said goodbye to the lady and again turned to the street leading closer and closer to the border.
 
+<br>
+<br>
 ##Children in Eleja tree house
 
 <br>
@@ -63,13 +68,16 @@ They were smiling and we just gave candies to everyone. Then the funny part star
 We’re walking down the Lietuvas iela for a while... 
 <img src="road.JPG" alt=""> 
 
+<br>
+<br>
 And we **reached the border!**
 <br>
 
 <img src="ltlvborders.jpg" alt=""> 
 <img src="border.JPG" alt=""> 
 
-
+<br>
+<br>
 ##Family on the border
 <br>
 
@@ -82,7 +90,8 @@ Viktors was talking with the father who explained that he bought the house in au
 While Viktors had a nice conversation with this man I was talking with a young guy who is lithuanian. He says that he loves basketball and he is a huge fan of lithuanian baskatball team, but when it comes to ice hockey he is always cheering for latvians. He also said that they go to Lithuania to do shopping because Joniškis is closer than Jelgava.
 
 Before we said goodbye we asked what chocolate do they prefer: Laima, Karūna or Kalev. They’ve chosen Laima  So that was the last nice moment with people who lives on the border from Latvias’ side.
-
+<br>
+<br>
 ##Nice lady in Žagarė
 
 <br>
@@ -91,13 +100,15 @@ When we came to Lithuania we hitchhiked to Žagarė. We asked one lady in Žagar
 <img src="ViktorsandladyfromZagare.JPG" alt=""> 
 <img src="ievaandladyfromzagare.JPG" alt=""> 
 
-
+<br>
+<br>
 ##Couple on their bikes
 <br>
 
 We went to the border and we met two persons riding bikes. They we’re coming back from the forest where they were collecting berries. They live together in Žagarė. They go to Latvia only to the forest. They were living in Latvia for 1,5 years but they don’t speak latvian. While we were talking I found out that they know my grandparents! What a small world! That was a really nice coincidence. We wished each other good luck and exchanged with chocolate and berries 
 bikes.jpg
-
+<br>
+<br>
 ##Our host Viga and her mother
 <br>
 
