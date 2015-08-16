@@ -14,12 +14,17 @@ When our team finally chose the direction of Liepaja, we have been discussing th
 <div class="row">
 	<div class="small-12 medium-3 small-centered columns">
 		<img src="nastja.JPG">
-        ###Anastasia       
+        <br>
+        <h3>Anastasia</h3>       
 	</div>
 	<div class="small-12 medium-3 small-centered columns">
 		<img src="gabija.JPG">
+        <br>
+        <h3>Anastasia</h3>
 	</div>
 	<div class="small-12 medium-3 small-centered columns">
 		<img src="germans.JPG">
+        <br>
+        <h3>Anastasia</h3>
 	</div>
 </div>
