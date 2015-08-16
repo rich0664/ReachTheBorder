@@ -4,7 +4,7 @@ title: almostredheads
 
 ---
 
-<img src="{{ site.baseurl }}/Projects/almostredheads/Intro.jpg" alt=""> 
+<img src="Intro.JPG" alt=""> 
 
 
 What is the border for people who live there? Do they feel that there is something that separates us? Why do we have borders and what does it mean to cross them? We invite you to join us on our way to the place were our countries meet and to listen to the stories of people from both sides of the border between Latvia and Lithuania.
@@ -13,7 +13,7 @@ What is the border for people who live there? Do they feel that there is somethi
 
 ##Lady from Lietuvas iela
 
-<img src="Lietuvas iela.jpg" alt=""> 
+<img src="Lietuvas iela.JPG" alt=""> 
 
 Through the window of the house 33 in Lietuvas iela we saw a nice lady with her black dog. They were looking at us passing by. We said hello and started to talk with her. She could speak both latvian and lithuanian! She was very nice and invited us to come over. She has been living in this house for 59 years. She was born in Latvia, her mother is lithuanian and her father – latvian. She also had a latvian husband who she met in Tervete.
 
