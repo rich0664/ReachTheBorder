@@ -8,6 +8,7 @@ published: true
 
 
 
+
 <div class="row">
 	<div class="small-centered column">
 
@@ -34,7 +35,7 @@ published: true
 	</div>
 
 	<div class="large-4 columns">
-		<p>maybe put some boring important links here</p>
+		<p></p>
 		<ul class="no-list">
 		    <li><a href="#"><i class="fa fa-cubes"></i>boring nr.1</a></li>
 		    <li><a href="#"><i class="fa fa-bed"></i>Yawn</a></li>
@@ -43,6 +44,20 @@ published: true
 	</div>
 
 
+</div>
+
+<div class="row">
+<div class="small-12 medium-8 small-centered">
+	
+		<div class="row">
+			<div class="small-4"><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png"></a></div>
+			<div class="small-4"><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.jpg"></a></div>
+			<div class="small-4"><a href="http://www.saltes.net/"><img src="img/saltes.png"></a></div>
+		</div>
+		<div class="row">
+			<div class="small-6"><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.jpg"></a></div>
+			<div class="small-6"><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg"></a></div>
+		</div>
 </div>
 
 <div class="row">
