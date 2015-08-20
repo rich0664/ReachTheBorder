@@ -6,4 +6,4 @@ title: VMA
 
 # VMA
 
-<iframe width=auto height=auto src="https://www.youtube.com/embed/khMPTCzOhWo" frameborder="0" allowfullscreen></iframe>
+<iframe seamless width="100%" src="https://www.youtube.com/embed/khMPTCzOhWo" frameborder="0" allowfullscreen></iframe>
