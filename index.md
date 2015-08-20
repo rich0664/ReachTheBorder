@@ -47,16 +47,16 @@ published: true
 </div>
 
 <div class="row">
-<div class="small-12 medium-8 small-centered">
+<div class="small-12 medium-8 small-centered columns">
 	
 		<div class="row">
-			<div class="small-4"><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png"></a></div>
-			<div class="small-4"><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.jpg"></a></div>
-			<div class="small-4"><a href="http://www.saltes.net/"><img src="img/saltes.png"></a></div>
+			<div class="small-4 columns"><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png"></a></div>
+			<div class="small-4 columns"><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.jpg"></a></div>
+			<div class="small-4 columns"><a href="http://www.saltes.net/"><img src="img/saltes.png"></a></div>
 		</div>
 		<div class="row">
-			<div class="small-6"><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.jpg"></a></div>
-			<div class="small-6"><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg"></a></div>
+			<div class="small-6 columns"><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.jpg"></a></div>
+			<div class="small-6 columns"><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg"></a></div>
 		</div>
 </div>
 
