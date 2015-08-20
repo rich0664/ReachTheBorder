@@ -47,11 +47,13 @@ published: true
 
 <div class="row">
 	<div class="medium-9 large-7 small-centered column">
+    
+    
+<hr>
 
 
 
-
-	<p class="mvl" style="color: dark-gray; font-size: 0.8rem;">This project has been funded with support from the European Commission. This publication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>
+	<p class="mvl text-center" style="color: dark-gray; font-size: 0.8rem;">This project has been funded with support from the European Commission. This publication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>
 	
 <!--		<p class="mvl">And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
 		<i class="fa fa-flag fa-lg">	
