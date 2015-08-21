@@ -39,7 +39,7 @@ published: true
 	<div class="large-4 columns">
 		<p></p>
 		<ul class="no-list">
-		    <li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><i class=""fa fa-globe"></i>Erasmus+</a></li>
+		    <li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><i class="fa fa-globe"></i>Erasmus+</a></li>
 		    <li><a href="https://www.youthpass.eu/en/youthpass/"><i class="fa fa-users"></i>Youth Pass</a></li>
 		    <li><a href="#"><i class="fa fa-home"></i>http://www.klubsmaja.lv/index.php/en/"</a></li>
 		</ul>
