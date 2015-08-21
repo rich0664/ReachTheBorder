@@ -51,15 +51,15 @@ published: true
 <div class="small-12 medium-8 small-centered columns">
 
 		<ul class="small-block-grid-3">
-			<li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png" width="4em" alt="Erasmus+"></a></li>
-			<li><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.jpg"  width="4em" alt="Klubs māja"></a></li>
-			<li><a href="http://www.saltes.net/"><img src="img/saltes.png" width="4em" alt="Saltes"></a></li>
+			<li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png" width="80%" alt="Erasmus+"></a></li>
+			<li><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.jpg"  width="80%" alt="Klubs māja"></a></li>
+			<li><a href="http://www.saltes.net/"><img src="img/saltes.png" width="80%" alt="Saltes"></a></li>
 		</ul>
 		<ul class="small-block-grid-2">
        
         
-			<li><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.png" width="4em" alt="MTÜ Siilike"></a></li>
-			<li><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg" width="4em" alt="New Faces"></a></li>
+			<li><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.png" width="80%" alt="MTÜ Siilike"></a></li>
+			<li><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg" width="80%" alt="New Faces"></a></li>
 		</ul>
 </div>
 
