@@ -41,7 +41,7 @@ published: true
 		<ul class="no-list">
 		    <li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><i class="fa fa-globe"></i>Erasmus+</a></li>
 		    <li><a href="https://www.youthpass.eu/en/youthpass/"><i class="fa fa-users"></i>Youth Pass</a></li>
-		    <li><a href="http://www.klubsmaja.lv/index.php/en/"><i class="fa fa-home"></i></a></li>
+		    <li><a href="http://www.klubsmaja.lv/index.php/en/"><i class="fa fa-home"></i>Club "The House"</a></li>
 		</ul>
 	</div>
 
