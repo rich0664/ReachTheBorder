@@ -52,7 +52,7 @@ published: true
 
 		<ul class="small-block-grid-3">
 			<li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png" width="80%" alt="Erasmus+"></a></li>
-			<li><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.jpg"  width="80%" alt="Klubs māja"></a></li>
+			<li><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.png"  width="80%" alt="Klubs māja"></a></li>
 			<li><a href="http://www.saltes.net/"><img src="img/saltes.png" width="80%" alt="Saltes"></a></li>
 		</ul>
 		<ul class="small-block-grid-2">
