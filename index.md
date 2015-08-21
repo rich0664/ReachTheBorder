@@ -14,7 +14,7 @@ published: true
 	<div class="small-centered column">
 
 
-<h1 class="mvl">Wololooo!</h1>
+<!-- <h1 class="mvl">Wololooo!</h1> -->
 
 <div class="slicky">
   <div><img src="http://i.imgur.com/qa0DMla.jpg" alt=""></div>
