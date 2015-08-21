@@ -50,12 +50,12 @@ published: true
 <div class="row">
 <div class="small-12 medium-8 small-centered columns">
 
-		<ul class="small-block-grid-3">
+		<ul class="small-block-grid-3" style="text-align: center;">
 			<li><a href="http://ec.europa.eu/programmes/erasmus-plus/index_en.htm"><img src="img/erasmus.png" width="80%" alt="Erasmus+"></a></li>
 			<li><a href="http://www.klubsmaja.lv/index.php/en/"><img src="img/klubsmaja.png"  width="80%" alt="Klubs māja"></a></li>
 			<li><a href="http://www.saltes.net/" ><img src="img/saltes.png" width="80%" alt="Saltes"></a></li>
 		</ul>
-		<ul class="small-block-grid-2">
+		<ul class="small-block-grid-2" style="text-align: center;">
        
         
 			<li><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.png" width="60%" alt="MTÜ Siilike"></a></li>
