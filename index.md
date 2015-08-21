@@ -58,8 +58,8 @@ published: true
 		<ul class="small-block-grid-2">
        
         
-			<li><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.png" width="80%" alt="MTÜ Siilike"></a></li>
-			<li><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg" width="80%" alt="New Faces"></a></li>
+			<li><a href="http://ngosiilike.blogspot.com/"><img src="img/siilike.png" width="60%" alt="MTÜ Siilike"></a></li>
+			<li><a href="http://new-faces.org/?lang=en"><img src="img/newfaces.jpg" width="60%" alt="New Faces"></a></li>
 		</ul>
 </div>
 
