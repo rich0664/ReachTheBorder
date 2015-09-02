@@ -61,9 +61,9 @@ At the very end of Eleja village we saw some children playing near the big three
 -	Yes, we know.
 They were 8 latvian boys. We started to talk to them and asked do they like to live in Eleja. They said that they like that. Thay didn’t speak Lithuanian, but they knew that there are some lithuanian children who live here. 
 -	Do you want candies?
-They were a bit shy to say yes, but when we took a big bag of candies from our backpack their eyes started to sparkle 
+They were a bit shy to say yes, but when we took a big bag of candies from our backpack their eyes started to sparkle :)
 -	Oh, yes, you are not supposed to take candies from strangers, don’t you?
-They were smiling and we just gave candies to everyone. Then the funny part started – I asked if I could climb that tree and they let me do that. Actually they even held leathers for me. That was very sweet. I think I was the first Lithuanian to visit their tree house. Maybe now they will invite Lithuanian children to play as well. We’re braliūkai after all 
+They were smiling and we just gave candies to everyone. Then the funny part started – I asked if I could climb that tree and they let me do that. Actually they even held leathers for me. That was very sweet. I think I was the first Lithuanian to visit their tree house. Maybe now they will invite Lithuanian children to play as well. We’re braliūkai after all :)
 
 We’re walking down the Lietuvas iela for a while... 
 <img src="road.JPG" alt=""> 
@@ -87,7 +87,7 @@ Viktors was talking with the father who explained that he bought the house in au
 
 While Viktors had a nice conversation with this man I was talking with a young guy who is lithuanian. He says that he loves basketball and he is a huge fan of lithuanian baskatball team, but when it comes to ice hockey he is always cheering for latvians. He also said that they go to Lithuania to do shopping because Joniškis is closer than Jelgava.
 
-Before we said goodbye we asked what chocolate do they prefer: Laima, Karūna or Kalev. They’ve chosen Laima  So that was the last nice moment with people who lives on the border from Latvias’ side.
+Before we said goodbye we asked what chocolate do they prefer: Laima, Karūna or Kalev. They’ve chosen Laima :) So that was the last nice moment with people who lives on the border from Latvias’ side.
 <br>
 <br>
 <h2>Nice lady in Žagarė</h2>
@@ -103,7 +103,7 @@ When we came to Lithuania we hitchhiked to Žagarė. We asked one lady in Žagar
 <h2>Couple on their bikes</h2>
 <br>
 
-We went to the border and we met two persons riding bikes. They we’re coming back from the forest where they were collecting berries. They live together in Žagarė. They go to Latvia only to the forest. They were living in Latvia for 1,5 years but they don’t speak latvian. While we were talking I found out that they know my grandparents! What a small world! That was a really nice coincidence. We wished each other good luck and exchanged with chocolate and berries 
+We went to the border and we met two persons riding bikes. They we’re coming back from the forest where they were collecting berries. They live together in Žagarė. They go to Latvia only to the forest. They were living in Latvia for 1,5 years but they don’t speak latvian. While we were talking I found out that they know my grandparents! What a small world! That was a really nice coincidence. We wished each other good luck and exchanged with chocolate and berries :)
 bikes.jpg
 <br>
 <br>
@@ -116,6 +116,6 @@ Viga was our host for the night that we spent in Lithuania. She lives in Stungia
 
 <img src="stungiai.JPG" alt=""> 
 
-The last morning before we came back we had this feeling that it’s really over. We reached our goal and now we’re ready to come back. But what our journey was about? Now when we look retrospectively, we understand that our journey was now about reaching border or even crossing it. It was all about people we met, who lived on this “nationally blured” place. We haven’t felt any difference while being in Latvia and Lithuania! People on both sides were nice to us, we saw that our nations are really close to each other, that many of those, who live near the border, create international families and have good relationships with their neighbours. Or we should say – brothers 
+The last morning before we came back we had this feeling that it’s really over. We reached our goal and now we’re ready to come back. But what our journey was about? Now when we look retrospectively, we understand that our journey was now about reaching border or even crossing it. It was all about people we met, who lived on this “nationally blured” place. We haven’t felt any difference while being in Latvia and Lithuania! People on both sides were nice to us, we saw that our nations are really close to each other, that many of those, who live near the border, create international families and have good relationships with their neighbours. Or we should say – brothers :)
 
 There are many ways to discover our culture and ourselves, but the best way is to share your story with others. We really appreciate every moment of our trip, every person who we met on our way, all those who drove us when we were hitchiking and those with whom we were staying. We say a big thank you for all!
