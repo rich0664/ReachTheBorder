@@ -1,8 +1,9 @@
 ---
 layout: blog
-published: false
+published: true
 title: The city where the wind is born
 ---
+
 
 ### by: Šviesa
 
