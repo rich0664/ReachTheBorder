@@ -1,8 +1,9 @@
 ---
 layout: blog
-published: false
+published: true
 title: "Adventure!"
 ---
+
 
 ### by: nebeprisikiškiakopūsteliaudavome
 
