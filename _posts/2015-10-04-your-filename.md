@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: false
-title: ""
+title: The city where the wind is born
 ---
 
 ### by: Šviesa
