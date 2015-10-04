@@ -1,8 +1,9 @@
 ---
 layout: blog
-published: false
+published: true
 title: Happy pineapple day
 ---
+
 
 by almost redheads
 
